@@ -1,3 +1,6 @@
+//C++ Program to implement Frist Come First Server
+//Scheduling CPU Algorithm
+
 #include<iostream>
  
 using namespace std;
